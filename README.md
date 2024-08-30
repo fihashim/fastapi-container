@@ -1,5 +1,5 @@
 # Using AWS Services to Deploy Containers Using Continuous Delivery
-Since AWS Cloud9 has been deprecated, an alternative to using the AWS CloudShell is to create a new EC2 instance and running the steps below there. 
+Since AWS Cloud9 has been deprecated, an alternative to using the AWS CloudShell is to create a new EC2 instance and running the steps below. 
 
 ## Deploying a Container In EC2 Instance
 ### Setup EC2 Instance
